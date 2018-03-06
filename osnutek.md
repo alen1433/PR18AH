@@ -1,4 +1,4 @@
-# Osntek projektne naloge
+# Osnutek projektne naloge
 ## Opis problema
 Kot temo za projektno nalogo sem si vzel računalniške igrice, bolj specifično analizo vseh igric, ki so izšle med leti 2007 in 2017.
 Zanima me, če se da iz teh podatkov razbrat kdaj trendi nastanejo in kako vplivajo na izid igric in njihove ocene pa kdaj trendi nehajo.
