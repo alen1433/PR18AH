@@ -4,12 +4,12 @@ kot sem napisal v osnutku bom naredil analizo igric od leta 2007 do 2017 in pogl
 katere igrice so pripomogle h tem trendom. Trenutno imam na že spisek vseh igric, ki so pršle ven v tem obdobju, dan in mesec, ko so pršli ven in na katerih platformah. Ocene kritikov in uporabnikov pa imam iz kaggla. Trenutno nimam še nobenih grafov in analiz narejenih, vendar za končno poročilo bi predstavil trende, bi probal preveriti, če se da iz podatkov napovedovat trend, in koliko časa v povprečju trdajajo trendi.
 
 * Trenutni podatki:
-  -Ime igrice
-  -Mesec in dan izida igrice
-  -Žanra
-  -Platforme
-  -Ocene kritikov
-  -Ocene uporabniko
+  - Ime igrice
+  - Mesec in dan izida igrice
+  - Žanra
+  - Platforme
+  - Ocene kritikov
+  - Ocene uporabniko
 
 <p align="center">
   <img src="slikaprojekta1.png"/>
