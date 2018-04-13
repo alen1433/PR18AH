@@ -9,7 +9,13 @@ katere igrice so pripomogle h tem trendom. Trenutno imam na že spisek vseh igri
   - Žanra
   - Platforme
   - Ocene kritikov
-  - Ocene uporabniko
+  - Ocene uporabnikov
+  
+* Možni dodatni podatki:
+  - Developer
+  - Publisher
+  - Zasližek
+  - Število uporabnikov
 
 <p align="center">
   <img src="slikaprojekta1.png"/>
