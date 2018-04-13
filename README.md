@@ -14,7 +14,7 @@ katere igrice so pripomogle h tem trendom. Trenutno imam na že spisek vseh igri
 * Možni dodatni podatki:
   - Developer
   - Publisher
-  - Zasližek
+  - Zaslužek
   - Število uporabnikov
 
 <p align="center">
